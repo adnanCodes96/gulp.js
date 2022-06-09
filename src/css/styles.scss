@@ -1,0 +1,40 @@
+* {
+  margin: 0%;
+  padding: 0%;
+  box-sizing: border-box; }
+
+html, body {
+  height: 100%;
+  width: 100%; }
+
+@font-face {
+  font-family: 'KumbhSans Regular';
+  src: url("../fonts/KumbhSans-Regular.woff2") format("woff2");
+  font-stretch: normal;
+  font-style: normal;
+  font-weight: 400; }
+
+@font-face {
+  font-family: 'KumbhSans Bold';
+  src: url("../fonts/KumbhSans-Bold.woff2") format("woff2");
+  font-stretch: normal;
+  font-style: normal;
+  font-weight: 700; }
+
+body {
+  font-family: 'KumbhSans Regular'; }
+
+h1 {
+  font-family: 'KumbhSans Bold'; }
+
+h2 {
+  font-family: 'KumbhSans Bold'; }
+
+h3 {
+  font-family: 'KumbhSans Bold'; }
+
+h4 {
+  font-family: 'KumbhSans Bold'; }
+
+h5 {
+  font-family: 'KumbhSans Bold'; }

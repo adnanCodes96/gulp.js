@@ -1,0 +1,26 @@
+// Regular
+@font-face {
+    font-family: 'KumbhSans Regular';
+    src: url('../fonts/KumbhSans-Regular.woff2') format('woff2');
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+}
+//Bold
+@font-face {
+    font-family: 'KumbhSans Bold';
+    src: url('../fonts/KumbhSans-Bold.woff2') format('woff2');
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 700;
+}
+
+body {
+    font-family: 'KumbhSans Regular';
+}
+
+@for $i from 1 to 6 {
+    h#{$i} {
+        font-family: 'KumbhSans Bold';
+    }
+}
