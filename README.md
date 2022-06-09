@@ -1,2 +1,2 @@
-1. Run comand in terminal npm run compile:sass
-2. Run comand gulp in terminal 
+1. Run command in terminal npm run compile:sass
+2. Run command gulp in terminal 
